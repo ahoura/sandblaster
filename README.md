@@ -1,3 +1,14 @@
+# sandblaster.ts
+this is the exact same Sandblaster code written by JamesMGreene, just rewritten in typescript using ES6 syntax. 
+
+## How to include and use sandblaster.ts?
+copy `sandblaster.ts` into your project folder,
+import sandblaster instance by into your project/module by:
+```javascript
+import {sandblaster} from '/path/to/sandblaster.ts'
+```
+Please read sandblaster.js's documentation for available methods and options. 
+
 # sandblaster.js
 [![GitHub Latest Release](https://badge.fury.io/gh/JamesMGreene%2Fsandblaster.svg)](https://github.com/JamesMGreene/sandblaster) [![Build Status](https://secure.travis-ci.org/JamesMGreene/sandblaster.svg?branch=master)](https://travis-ci.org/JamesMGreene/sandblaster) [![Dependency Status](https://david-dm.org/JamesMGreene/sandblaster.svg?theme=shields.io)](https://david-dm.org/JamesMGreene/sandblaster) [![Dev Dependency Status](https://david-dm.org/JamesMGreene/sandblaster/dev-status.svg?theme=shields.io)](https://david-dm.org/JamesMGreene/sandblaster#info=devDependencies)
 
